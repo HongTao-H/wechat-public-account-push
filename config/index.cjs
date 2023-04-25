@@ -21,9 +21,9 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '小公主',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'o2-S45pgMjtCrvw0_x44SI6QHnjA',
+      id: 'o2-S45j5HKSqEZwJNtNmlUJyvV-A',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'L1Zdp8sXCWk5TR6aDSl0UAHvVArS8FEIA2EFuc14Q6M',
+      useTemplateId: '2fXGRC6EgAJuJF1Dv2xAIeLWQT49NhBUK6UFcPkMs8k',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-04',
       festivals: [
